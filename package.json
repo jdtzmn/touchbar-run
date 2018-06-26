@@ -1,13 +1,14 @@
 {
   "name": "touchbar-run",
-  "scripts": {
-    "start": "ls",
-    "test": "pwd"
-  },
   "main": "./lib/touchbar-run",
   "version": "0.1.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "A package.json script runner for the Macbook TouchBar",
+  "keywords": [
+    "touchbar",
+    "script",
+    "run",
+    "package.json"
+  ],
   "consumedServices": {
     "touchbar-registry": {
       "versions": {
