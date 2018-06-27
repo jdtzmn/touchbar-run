@@ -4,7 +4,7 @@
     "lint": "eslint lib/*.js"
   },
   "main": "./lib/touchbar-run",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An atom package to run package.json scripts straight from the MacBook Touch Bar",
   "keywords": [
     "touchbar",
