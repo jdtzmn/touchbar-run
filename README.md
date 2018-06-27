@@ -6,6 +6,8 @@
 
 An atom package to run package.json scripts straight from the MacBook Touch Bar.
 
+![Touch Bar Gif](.github/demo.gif)
+
 ## Installation
 
 Install with apm: `$ apm install touchbar-run`
