@@ -28,7 +28,7 @@
     "touchbar-registry",
     "platformio-ide-terminal"
   ],
-  "repository": "https://github.com/atom/touchbar-status",
+  "repository": "https://github.com/jdtzmn/touchbar-run",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
